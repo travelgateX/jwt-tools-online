@@ -2,6 +2,9 @@
 
 It's an APIREST tool with functions that complete the use of the go-jwt-tools library (and its equivalents in other languages).
 
+WARNING! This github repository only have the documentation file, the main code it's in private repository in Gitlab.
+go-jwt-tools; [https://gitlab.xmltravelgate.com/iam/jwt-tools-online](https://gitlab.xmltravelgate.com/iam/jwt-tools-online)
+
 ## Introduction to IAM
 
 The IAM is the authentication project of TravelgateX, the IAM manages the permissions that a user has configured in the system. The TravelgateX teams that have their projects integrated with the IAM must comply with the following considerations:
